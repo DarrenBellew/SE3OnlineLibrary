@@ -1,0 +1,8 @@
+127.0.0.1 - - [30/Nov/2015:15:57:21 +0000] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [30/Nov/2015:15:57:24 +0000] "GET /SE3_WebAppExample/WEB-INF/classes/command/islarf6546/com/CommandFactory.java HTTP/1.1" 404 949
+127.0.0.1 - - [30/Nov/2015:15:59:35 +0000] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [30/Nov/2015:15:59:35 +0000] "GET /SE3_WebAppExample/login.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [30/Nov/2015:16:00:59 +0000] "POST /SE3_WebAppExample/FrontController HTTP/1.1" 200 363
+0:0:0:0:0:0:0:1 - - [30/Nov/2015:16:17:36 +0000] "POST /SE3_WebAppExample/FrontController HTTP/1.1" 200 363
+127.0.0.1 - - [30/Nov/2015:16:21:27 +0000] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [30/Nov/2015:16:21:46 +0000] "POST /SE3_WebAppExample/FrontController HTTP/1.1" 200 363

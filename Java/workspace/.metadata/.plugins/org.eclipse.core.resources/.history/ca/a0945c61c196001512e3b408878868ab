@@ -1,0 +1,5 @@
+package exceptions.islarf6546.com;
+
+public class CommandCreationException {
+
+}
